@@ -38,7 +38,7 @@ Version:        4.10.1
 Release:        1%{?dist}
 Epoch:          0
 License:        ASL 2.0
-URL:            http://lucene.apache.org/
+URL:            https://lucene.apache.org/
 Source0:        http://www.apache.org/dist/lucene/java/%{version}/lucene-%{version}-src.tgz
 Source1:        lucene-%{version}-core-OSGi-MANIFEST.MF
 Source2:        lucene-%{version}-analysis-OSGi-MANIFEST.MF
